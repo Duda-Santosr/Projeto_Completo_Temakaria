@@ -4,7 +4,7 @@
 
 
 ## Projeto completo mobile📱
-![Uploading Captura de tela 2024-09-23 162456.png…]()
+![Captura de tela 2024-09-23 162456](https://github.com/user-attachments/assets/f6b2879f-0942-4b76-aadf-b216cf1bc101)
 
 
 ## Wireframe de baixa fidelidade
