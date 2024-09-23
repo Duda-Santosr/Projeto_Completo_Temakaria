@@ -7,13 +7,13 @@
 ![Captura de tela 2024-09-23 162456](https://github.com/user-attachments/assets/f6b2879f-0942-4b76-aadf-b216cf1bc101)
 
 
-## Wireframe de baixa fidelidade
+## Wireframe de baixa fidelidade 📐⬇️
  ![image](https://github.com/user-attachments/assets/cb016300-f034-411d-b8d3-b0a42750ab48)
  
  ![image](https://github.com/user-attachments/assets/0fbc5634-3066-4f43-ba90-fe5ee0b2d585)
 
 
-## Manual de identidade visual (núcleos e tipografia)
+## Manual de identidade visual (núcleos e tipografia)🪪👀
 ![Captura de tela 2024-09-23 091052](https://github.com/user-attachments/assets/95488f45-59de-4e79-af5a-c0e21c8a8c3e)
 
 
