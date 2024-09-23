@@ -12,6 +12,7 @@
 
 
 ## Manual de identidade visual (núcleos e tipografia)
-![Captura de tela 2024-09-23 091052](https://github.com/user-attachments/assets/a55a4b7e-ed25-4350-95f7-cfb2a8c66b4d)
+![Captura de tela 2024-09-23 091052](https://github.com/user-attachments/assets/95488f45-59de-4e79-af5a-c0e21c8a8c3e)
+
 
  
