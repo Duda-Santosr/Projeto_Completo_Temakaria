@@ -1,8 +1,10 @@
 # Projeto Completo Temakeria🍱🥢
 ## Projeto completo desktop💻
+![Captura de tela 2024-09-23 162401](https://github.com/user-attachments/assets/a223345b-0278-4b88-a75d-b6ec3882a1ec)
 
 
 ## Projeto completo mobile📱
+![Uploading Captura de tela 2024-09-23 162456.png…]()
 
 
 ## Wireframe de baixa fidelidade
