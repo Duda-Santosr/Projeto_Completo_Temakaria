@@ -7,6 +7,7 @@
 
 ## Wireframe de baixa fidelidade
  ![image](https://github.com/user-attachments/assets/cb016300-f034-411d-b8d3-b0a42750ab48)
+ 
  ![image](https://github.com/user-attachments/assets/0fbc5634-3066-4f43-ba90-fe5ee0b2d585)
 
 
