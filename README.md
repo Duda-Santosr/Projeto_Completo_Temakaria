@@ -8,9 +8,11 @@
 
 
 ## Wireframe de baixa fidelidade 📐⬇️
- ![image](https://github.com/user-attachments/assets/cb016300-f034-411d-b8d3-b0a42750ab48)
- 
- ![image](https://github.com/user-attachments/assets/0fbc5634-3066-4f43-ba90-fe5ee0b2d585)
+![image](https://github.com/user-attachments/assets/8f55c059-449d-4d06-a5d3-31fc17fd6f27)
+![image](https://github.com/user-attachments/assets/638870a7-3640-4ec0-b21c-86ab12daf8b8)
+![image](https://github.com/user-attachments/assets/4a40e96d-34c1-426e-b69d-507d6665d326)
+
+
 
 
 ## Manual de identidade visual (núcleos e tipografia)🪪👀
